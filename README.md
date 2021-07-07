@@ -25,3 +25,6 @@ Software Requirements includes:<br>
 1.A web browser that supports HTML5 and CSS3.<br>
 2.An IDE to code HTML, CSS and JavaScript like Visual Studio Code.<br>
 3.Django Framework support.<br>
+
+
+Full version will be released soon.
